@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/KruczyM/learning-react/static/css/main.f28c4d24.chunk.css",
-    "main.js": "/KruczyM/learning-react/static/js/main.df580b9b.chunk.js",
-    "main.js.map": "/KruczyM/learning-react/static/js/main.df580b9b.chunk.js.map",
-    "runtime-main.js": "/KruczyM/learning-react/static/js/runtime-main.dcb26bd6.js",
-    "runtime-main.js.map": "/KruczyM/learning-react/static/js/runtime-main.dcb26bd6.js.map",
-    "static/js/2.0a13fc44.chunk.js": "/KruczyM/learning-react/static/js/2.0a13fc44.chunk.js",
-    "static/js/2.0a13fc44.chunk.js.map": "/KruczyM/learning-react/static/js/2.0a13fc44.chunk.js.map",
-    "index.html": "/KruczyM/learning-react/index.html",
-    "precache-manifest.87e225a9de45fd27a2dd98555f4f0be1.js": "/KruczyM/learning-react/precache-manifest.87e225a9de45fd27a2dd98555f4f0be1.js",
-    "service-worker.js": "/KruczyM/learning-react/service-worker.js",
-    "static/css/main.f28c4d24.chunk.css.map": "/KruczyM/learning-react/static/css/main.f28c4d24.chunk.css.map",
-    "static/js/2.0a13fc44.chunk.js.LICENSE": "/KruczyM/learning-react/static/js/2.0a13fc44.chunk.js.LICENSE"
+    "main.css": "/learning-react/static/css/main.f28c4d24.chunk.css",
+    "main.js": "/learning-react/static/js/main.014ba6aa.chunk.js",
+    "main.js.map": "/learning-react/static/js/main.014ba6aa.chunk.js.map",
+    "runtime-main.js": "/learning-react/static/js/runtime-main.49ae10d2.js",
+    "runtime-main.js.map": "/learning-react/static/js/runtime-main.49ae10d2.js.map",
+    "static/js/2.0a13fc44.chunk.js": "/learning-react/static/js/2.0a13fc44.chunk.js",
+    "static/js/2.0a13fc44.chunk.js.map": "/learning-react/static/js/2.0a13fc44.chunk.js.map",
+    "index.html": "/learning-react/index.html",
+    "precache-manifest.c14f1e4132066c0d4515397650653c26.js": "/learning-react/precache-manifest.c14f1e4132066c0d4515397650653c26.js",
+    "service-worker.js": "/learning-react/service-worker.js",
+    "static/css/main.f28c4d24.chunk.css.map": "/learning-react/static/css/main.f28c4d24.chunk.css.map",
+    "static/js/2.0a13fc44.chunk.js.LICENSE": "/learning-react/static/js/2.0a13fc44.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcb26bd6.js",
+    "static/js/runtime-main.49ae10d2.js",
     "static/js/2.0a13fc44.chunk.js",
     "static/css/main.f28c4d24.chunk.css",
-    "static/js/main.df580b9b.chunk.js"
+    "static/js/main.014ba6aa.chunk.js"
   ]
 }
